@@ -8,10 +8,16 @@ Unity Version - 2021.2.15f1
 VS Version 2019
 This is multiplayer network game with WebGL
 
-How to play this:
-  1. HP Server End: 9000, default server IP should be your IPv4 address: localhost: 9000
-  2. Go to 'connect.cs', on the line 20, change the localhost to your IPv4 address.
-  3. Client or other players can connect to the server by server IP
+How to play the game:
+  As server end (only working in Windows systgem):
+  1. Download all files, including 'drawteen-1.rar' and 'Drawteengame.Server.rar'
+  2. To extract them
+  3. After extracting the server files, open "MyGame.Server.sln" with Visual Studio Version - 2019
+  4. Importing the drawteen-1 to you unity project with Unity Version - 2021.2.15f1
+  5. HP Server End: 9000, default server IP should be your IPv4 address: localhost: 9000
+  6. Go to 'connect.cs', on the line 20, change the "localhost" to your IPv4 address (such as 172.1..).
+  7. Go to the Unity Project, click 'File' and choose 'Build and Run'
+  8. Client or other players can connect to the server by server IP
  
 Testing suggestion:
   You can open four browser windows by coping the same IP address to test if the game working with four players.
