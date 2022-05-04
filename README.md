@@ -1,4 +1,7 @@
 # DrawTeen
+
+Please go to the Release (Drawteen v1.0) on the right side of the projet to download all files. (The code and settings)
+
 Drawing and guessing game
 Unity Version - 2021.2.15f1
 VS Version 2019
