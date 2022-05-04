@@ -1,6 +1,7 @@
 # DrawTeen
 
 Please go to the Release (Drawteen v1.0) on the right side of the projet to download all files. (The code and settings)
+Or go to this link: https://github.com/JwSoar/DrawTeen/releases/tag/drawteengame
 
 Drawing and guessing game
 Unity Version - 2021.2.15f1
