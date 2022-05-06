@@ -29,8 +29,9 @@ Testing suggestion:
  You can open four browser windows by coping the same IP address to test if the game working with four players. (Google Chrome should be better)
 
 The code that we did not write:
-Code from GitHub:
+
+1. Code from GitHub:
 UnityWebsocket: psygames/UnityWebSocket: https://github.com/psygames/UnityWebSocket
 
-project from Unity Store:
+2. project from Unity Store:
 Free Draw: https://assetstore.unity.com/packages/tools/painting/free-draw-simple-drawing-on-sprites-2d-textures-113131
