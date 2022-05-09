@@ -14,7 +14,7 @@ This is multiplayer network game with WebGL
 Game developed by: Jianchi Wei, Yannong Li, Zhiyu Wan, and Jiajun Zhu
 
 How to play the game:
-  As server end (only working in Windows systgem):
+  As server end (only working in Windows system):
   1. Download all files, including 'drawteen-1.rar' and 'Drawteengame.Server.rar'.
   2. To extract them.
   3. After extracting the server files, open "MyGame.Server.sln" with Visual Studio Version - 2019, and run.
